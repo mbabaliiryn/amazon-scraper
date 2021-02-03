@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mbabaliiryn/amazon-scraper#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "puppeteer": "^6.0.0"
   }
 }
